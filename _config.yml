@@ -1,0 +1,36 @@
+# Site settings
+name: Marcelo Almeida
+description: "Site Reliabilty Engineer, automation enthusiast, enduro amateur rider."
+url: "malmeida.dev"
+
+
+# Delete the lines you don't need
+# about 5 elements are recomended
+github_username: marceloalmeida
+twitter_username: marcelo0almeida
+linkedin_username: marceloalmeida
+keybase_username: marceloalmeida
+email: me@malmeida.dev
+public_key_url: "http://pastebin.com/raw/PwHqN776"
+
+
+avatar: yes
+#avatar_img_path: "imgs/avatar.jpg""
+# You can link to your GitHub image. That way it will get updated
+# automatically whenever you change your GitHub profile picture
+avatar_img_path: "https://avatars3.githubusercontent.com/u/11047924?s=460&v=4"
+
+
+front_img: yes
+front_img_path: "imgs/background.jpg"
+#front_img_path: "https://external.url/image.jpg"
+
+
+favicon_img: yes
+favicon_img_path: "imgs/favicon.ico"
+#favicon_img_path: "https://external.url/favicon.ico"
+
+
+# Build settings
+markdown: kramdown
+permalink: pretty
