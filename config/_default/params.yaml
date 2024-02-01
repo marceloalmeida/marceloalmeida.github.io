@@ -1,0 +1,31 @@
+############################
+## Author
+############################
+
+author:
+  name: Marcelo Almeida
+  image: author.png
+  greeting: "Site Reliabilty Engineer, automation enthusiast, shaping tech excellence"
+  icon: ":wave:"
+
+############################
+## Links
+############################
+
+links:
+  - github: https://github.com/marceloalmeida
+  #- website: https://www.malmeida.dev
+  #- x-twitter: https://twitter.com/marcelo0almeida
+  - linkedin: https://linkedin.com/in/msalmeida
+  - email: mailto:me@malmeida.dev
+  - medium: https://medium.com/@marcelo.almeida
+  - keybase: https://keybase.io/marceloalmeida
+
+###############################
+## OpenGraph & Twitter Cards
+###############################
+
+title: Marcelo Almeida
+description: "Site Reliabilty Engineer, automation enthusiast, shaping tech excellence"
+images:
+  - thumbnail.png
