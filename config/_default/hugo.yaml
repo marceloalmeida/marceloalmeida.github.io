@@ -1,0 +1,7 @@
+baseURL: 'https://www.malmeida.dev'
+title: Marcelo Almeida
+
+enableEmoji: true
+disableKinds: ['taxonomy', 'term']
+languageCode: 'en-us'
+enableRobotsTXT: true
