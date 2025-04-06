@@ -3,6 +3,8 @@ name: Build Hugo site to Pages
 on:
   pull_request:
   push:
+    branches-ignore:
+      - master
   workflow_dispatch:
 
 permissions:
